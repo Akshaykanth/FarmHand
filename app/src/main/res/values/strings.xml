@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FarmHand</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="tap_on_mic">TAP ON MIC TO SPEAK</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="app_name">AndroidTextToSpeech</string>
+    <string name="name">Your Text</string>
+    <string name="speak">speak</string>
+</resources>
